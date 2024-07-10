@@ -64,6 +64,6 @@
 
 <style>
 .city {
-  background-image: url("/city.png");
+  background-image: url("/city3.jpg");
 }
 </style>
