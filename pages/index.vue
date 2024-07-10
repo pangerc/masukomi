@@ -30,8 +30,8 @@
       <div
         class="pt-32 pl-16 w-full h-2/3 flex flex-col justify-start items-start"
       >
-        <img src="/masukomi.svg" class="h-10" />
-        <p class="text-white text-xl uppercase pt-6">
+        <img src="/masukomi.svg" class="h-7" />
+        <p class="text-white text-normal uppercase pt-6 leading-6">
           When Everything <br />
           Else Fails
         </p>
