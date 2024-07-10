@@ -35,7 +35,9 @@
         class="pt-32 px-4 md:pl-16 w-full h-2/3 flex flex-col items-center justify-start md:items-start"
       >
         <img src="/masukomi.svg" class="h-7" />
-        <p class="text-white text-normal uppercase pt-6 leading-6">
+        <p
+          class="text-white text-normal uppercase pt-6 leading-6 text-center md:text-left"
+        >
           When Everything <br />
           Else Fails
         </p>
