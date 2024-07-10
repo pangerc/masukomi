@@ -9,26 +9,30 @@
       />
     </div>
     <div
-      class="absolute inset-16 z-10 border border-white/20 flex flex-col justify-between"
+      class="absolute inset-4 md:inset-16 z-10 border border-white/20 flex flex-col justify-between"
     >
       <!-- TOP SEGMENT -->
       <div class="w-full flex flex-col">
-        <div class="w-full h-12 flex justify-between">
+        <div class="w-full h-4 md:h-8 flex justify-between">
           <div
-            class="w-8 h-8 border-l-2 border-t-2 border-white -margin-1"
+            class="w-4 h-4 md:w-8 md:h-8 border-l-2 border-t-2 border-white -margin-1"
           ></div>
           <div
-            class="w-8 h-8 border-r-2 border-t-2 border-white -margin-1"
+            class="w-4 h-4 md:w-8 md:h-8 border-r-2 border-t-2 border-white -margin-1"
           ></div>
         </div>
         <div class="w-full h-12 flex justify-between">
-          <p class="text-white pl-16">V-001</p>
-          <p class="text-white pr-16">&copy;all rights reserved</p>
+          <p class="text-white pl-4 md:pl-16 text-xs md:text-sm lg:text-normal">
+            V-001
+          </p>
+          <p class="text-white pr-4 md:pr-16 text-xs md:text-sm lg:text-normal">
+            &copy;all rights reserved
+          </p>
         </div>
       </div>
       <!-- LOGO SEGMENT -->
       <div
-        class="pt-32 pl-16 w-full h-2/3 flex flex-col justify-start items-start"
+        class="pt-32 px-4 md:pl-16 w-full h-2/3 flex flex-col items-center justify-start md:items-start"
       >
         <img src="/masukomi.svg" class="h-7" />
         <p class="text-white text-normal uppercase pt-6 leading-6">
@@ -45,12 +49,12 @@
             >Book a call</a
           >
         </div>
-        <div class="w-full h-12 flex justify-between">
+        <div class="w-full h-4 md:h-8 flex justify-between mt-4 md:mt-0">
           <div
-            class="w-8 h-8 border-l-2 border-b-2 border-white -margin-1"
+            class="w-4 h-4 md:w-8 md:h-8 border-l-2 border-b-2 border-white -margin-1"
           ></div>
           <div
-            class="w-8 h-8 border-r-2 border-b-2 border-white -margin-1"
+            class="w-4 h-4 md:w-8 md:h-8 border-r-2 border-b-2 border-white -margin-1"
           ></div>
         </div>
       </div>
